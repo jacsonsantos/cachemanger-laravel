@@ -6,7 +6,7 @@
  * Time: 15:08
  */
 
-namespace App\Src\Helps;
+namespace Seu\Name\Space;
 
 use Illuminate\Cache\Repository;
 
