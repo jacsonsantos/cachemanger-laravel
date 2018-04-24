@@ -6,7 +6,7 @@ Adicione a variavel _CACHE_EN_ em seu arquivo __.env__.
 CACHE_EN=true
 ```
 
-### Usando Calsse
+### Usando Classe
 ```php
 // Injetar uma instancia de \Illuminate\Cache\Repository no primerio parametro.
 // O segundo parametro é opcional. É o duração do cache, pode ser do tipo: \DateTimeInterface|\DateInterval|float|int
